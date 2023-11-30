@@ -102,9 +102,15 @@ th {
     }
 }
 
-
-
-
+select,option
+{
+    background-color: #26272b;
+    color: #d3d3d3;
+    border: none;
+    width: 80px;
+    text-align: center;
+    height: 100%;
+}
 
 
 
