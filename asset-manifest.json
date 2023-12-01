@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-app/static/css/main.ea1a05e4.css",
+    "main.js": "/crypto-app/static/js/main.80e89899.js",
+    "static/js/787.e7a8af68.chunk.js": "/crypto-app/static/js/787.e7a8af68.chunk.js",
+    "index.html": "/crypto-app/index.html",
+    "main.ea1a05e4.css.map": "/crypto-app/static/css/main.ea1a05e4.css.map",
+    "main.80e89899.js.map": "/crypto-app/static/js/main.80e89899.js.map",
+    "787.e7a8af68.chunk.js.map": "/crypto-app/static/js/787.e7a8af68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1a05e4.css",
+    "static/js/main.80e89899.js"
+  ]
+}
