@@ -50,7 +50,7 @@ const currenciesArray = [
   {
     currency: "Gold Ounce",
     code: "XAU",
-    symbol: "Ounce",
+    symbol: "ounce",
     written: "after-currency",
   },
   {
@@ -62,7 +62,7 @@ const currenciesArray = [
   {
     currency: "Silver Ounce",
     code: "XAG",
-    symbol: "Ounce",
+    symbol: "ounce",
     written: "after-currency",
   },
   {
